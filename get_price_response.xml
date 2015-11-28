@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://www.w3.org/2011/12/soap-envelope" soap:encodingStyle="http://www.w3.org/2011/12/soap-encoding">
+	<soap:Body>
+		<m:GetPriceResponse xmlns:m="http://127.0.0.1/prices">
+			<m:Price>9.99</m:Price>
+		</m:GetPriceResponse>
+	</soap:Body>
+</soap:Envelope>
